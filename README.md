@@ -1,4 +1,4 @@
-# 🔨 Formulário POO
+# 🔨 Fetch API person finder
 # 📌 Sobre o projeto:
 1. Buscador de pessoas usando fetch API em um arquivo pré-pronto JSON
 2. Codigo 100% autoral
