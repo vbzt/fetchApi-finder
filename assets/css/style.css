@@ -55,7 +55,7 @@ main {
 
 .search {
   background-color: var(--colorido);
-  padding: 1vw;
+  padding: 1%;
   width: 30%;
   height: 8%;
   border-radius: 7px;
@@ -68,7 +68,7 @@ input {
   border-bottom: 2px solid #555;
   color: var(--corTexto);
   background-color: transparent;
-  padding: 0.2rem 0.6rem;
+  padding: 0.7vh;
   font-size: 0.95rem;
   font-weight: 500;
 }
@@ -84,7 +84,7 @@ input:focus {
 button {
   background-color: var(--corFundo);
   color: var(--colorido);
-  padding: 0.6rem 2rem;
+  padding: 1vh 3vh;
   border-radius: 5px;
   font-size: 0.95rem;
   width: max-content;
